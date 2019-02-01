@@ -15,7 +15,7 @@
                     "sessionId": "5_563"
                 },
                 {
-                    "sessions_id": "64_563"
+                    "sessionId": "64_563"
                 }
             ]
         },
@@ -35,7 +35,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -55,7 +55,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -75,7 +75,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -95,7 +95,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -115,7 +115,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -135,7 +135,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -155,7 +155,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -175,7 +175,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -195,7 +195,7 @@
                     "sessionId": "1_564"
                 },
                 {
-                    "sessions_id": "59_564"
+                    "sessionId": "59_564"
                 }
             ]
         },
@@ -480,67 +480,6 @@
             ]
         }
     ],
-    "drills": [{
-            "id": 2,
-            "title": "Right Foot",
-            "title_cn": "",
-            "description": "See how many total/cumulative juggles you can do with your right foot only in one minute. If the ball drops, bounces, or you catch it, keep counting where you left off.",
-            "description_cn": "",
-            "scoring": "+1 Every right foot touch\r\n+0 A touch with any other surface",
-            "timer": "60",
-            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
-        },
-        {
-            "id": 4,
-            "title": "Left Foot",
-            "title_cn": "",
-            "description": "See how many total/cumulative juggles you can do with your right foot only in one minute. If the ball drops, bounces, or you catch it, keep counting where you left off.",
-            "description_cn": "",
-            "scoring": "+1 Every right foot touch\r\n+0 A touch with any other surface",
-            "timer": "60",
-            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
-        },
-        {
-            "id": 164,
-            "title": "10 Cones: Free",
-            "title_cn": "",
-            "description": "Starting behind the end disc, weave in and out of the discs with any surface of both feet. Go around the disc at the other end and weave all the way back to the start. You must round the end discs each time.",
-            "description_cn": "",
-            "scoring": "+1 Every cone you dribble past (a full length=10)\r\n-5 Skipping a disc\r\n-1 If the ball rolls over a disc (just touching it is ok)",
-            "timer": "60",
-            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
-        },
-        {
-            "id": 51,
-            "title": "10 Cones: Right",
-            "title_cn": "",
-            "description": "Starting behind the end disc, weave in and out of the discs with your right foot only. Go around the disc at the other end and weave all the way back to the start. You must round the end discs each time.",
-            "description_cn": "",
-            "scoring": "+1 Every cone you dribble past (a full length=10)\r\n-5 Skipping a disc\r\n-1 If the ball rolls over a disc (just touching it is ok)",
-            "timer": "60",
-            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
-        },
-        {
-            "id": 154,
-            "title": "1 Touch Right Insides",
-            "title_cn": "",
-            "description": "With the inside of the right foot only, see how many 1-touch passes you can complete against the wall.",
-            "description_cn": "",
-            "scoring": "+1 The ball passes fully and cleanly through the gate on the way out and back\r\n+0 You take 2 touches (unless you're restarting after a failed attempt)\r\n+0 You use the wrong foot/surface",
-            "timer": "60",
-            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
-        },
-        {
-            "id": 155,
-            "title": "1 Touch Left Insides",
-            "title_cn": "",
-            "description": "With the inside of the right foot only, see how many 1-touch passes you can complete against the wall.",
-            "description_cn": "",
-            "scoring": "+1 The ball passes fully and cleanly through the gate on the way out and back\r\n+0 You take 2 touches (unless you're restarting after a failed attempt)\r\n+0 You use the wrong foot/surface",
-            "timer": "60",
-            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
-        }
-    ],
     "steps": [{
             "id": 1,
             "title": "1v1 Moves",
@@ -666,24 +605,66 @@
     }],
     "time_trials": {
         "juggling": [{
-                "drillId": 2
+                "id": 2,
+                "title": "Right Foot",
+                "title_cn": "",
+                "description": "See how many total/cumulative juggles you can do with your right foot only in one minute. If the ball drops, bounces, or you catch it, keep counting where you left off.",
+                "description_cn": "",
+                "scoring": "+1 Every right foot touch\r\n+0 A touch with any other surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
             },
             {
-                "drillId": 4
+                "id": 4,
+                "title": "Left Foot",
+                "title_cn": "",
+                "description": "See how many total/cumulative juggles you can do with your right foot only in one minute. If the ball drops, bounces, or you catch it, keep counting where you left off.",
+                "description_cn": "",
+                "scoring": "+1 Every right foot touch\r\n+0 A touch with any other surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
             }
         ],
         "dribbling": [{
-                "drillId": 164
+                "id": 164,
+                "title": "10 Cones: Free",
+                "title_cn": "",
+                "description": "Starting behind the end disc, weave in and out of the discs with any surface of both feet. Go around the disc at the other end and weave all the way back to the start. You must round the end discs each time.",
+                "description_cn": "",
+                "scoring": "+1 Every cone you dribble past (a full length=10)\r\n-5 Skipping a disc\r\n-1 If the ball rolls over a disc (just touching it is ok)",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
             },
             {
-                "drillId": 51
+                "id": 51,
+                "title": "10 Cones: Right",
+                "title_cn": "",
+                "description": "Starting behind the end disc, weave in and out of the discs with your right foot only. Go around the disc at the other end and weave all the way back to the start. You must round the end discs each time.",
+                "description_cn": "",
+                "scoring": "+1 Every cone you dribble past (a full length=10)\r\n-5 Skipping a disc\r\n-1 If the ball rolls over a disc (just touching it is ok)",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
             }
         ],
         "wall_work": [{
-                "drillId": 154
+                "id": 154,
+                "title": "1 Touch Right Insides",
+                "title_cn": "",
+                "description": "With the inside of the right foot only, see how many 1-touch passes you can complete against the wall.",
+                "description_cn": "",
+                "scoring": "+1 The ball passes fully and cleanly through the gate on the way out and back\r\n+0 You take 2 touches (unless you're restarting after a failed attempt)\r\n+0 You use the wrong foot/surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
             },
             {
-                "drillId": 155
+                "id": 155,
+                "title": "1 Touch Left Insides",
+                "title_cn": "",
+                "description": "With the inside of the right foot only, see how many 1-touch passes you can complete against the wall.",
+                "description_cn": "",
+                "scoring": "+1 The ball passes fully and cleanly through the gate on the way out and back\r\n+0 You take 2 touches (unless you're restarting after a failed attempt)\r\n+0 You use the wrong foot/surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
             }
         ]
     }
