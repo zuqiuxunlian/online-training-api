@@ -1,0 +1,759 @@
+{
+    "sessions": [{
+            "id": "801_801",
+            "title": "Chest Height",
+            "title_cn": "",
+            "word": "Juggle alternating feet, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height, alternating feet, before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/Alt+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "801_801",
+                    "title": "Chest Height",
+                    "title_cn": ""
+                },
+                {
+                    "sessionId": "5_563",
+                    "title": "Alternating Feet",
+                    "title_cn": ""
+                },
+                {
+                    "sessionId": "64_563",
+                    "title": "Alternating Feet: Bounce",
+                    "title_cn": ""
+                }
+            ]
+        },
+        {
+            "id": "5_563",
+            "title": "Alternating Feet",
+            "title_cn": "",
+            "word": "Keep the ball up, alternating feet.",
+            "word_cn": "",
+            "description": "Use proper technique by keeping your ankle locked, knee slightly bent, and hitting through the center of the ball so that it creates a slight back spin. You may want to track: 1. Your best consecutive score alternating feet",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Juggling+COMPRESSED/Juggling%3A+Alternating+Feet+(regular).mp4",
+            "difficulty": [{
+                    "sessionId": "801_801",
+                    "title": "Chest Height",
+                    "title_cn": ""
+                },
+                {
+                    "sessionId": "5_563",
+                    "title": "Alternating Feet",
+                    "title_cn": ""
+                },
+                {
+                    "sessionId": "64_563",
+                    "title": "Alternating Feet: Bounce",
+                    "title_cn": ""
+                }
+            ]
+        },
+        {
+            "id": "64_563",
+            "title": "Alternating Feet: Bounce",
+            "title_cn": "",
+            "word": "Juggle, alternating feet, allowing one bounce between each touch.",
+            "word_cn": "",
+            "description": "Keep your ankle locked, knee slightly bent, and hit through the center of the ball so that it creates a slight back spin. Keep your feet moving and try to hit the ball straight into the air so you are able to maintain the 'one touch-one bounce' pattern. Depending on the surface you're on, you may need to hit the ball higher to make sure it bounces up high enough. You may want to track: 1. Your highest consecutive score in the 'right foot-bounce-left foot-bounce' pattern.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Juggling+COMPRESSED/Juggling%3A+Alternating+Feet+(regular).mp4",
+            "difficulty": [{
+                    "sessionId": "801_801",
+                    "title": "Chest Height",
+                    "title_cn": ""
+                },
+                {
+                    "sessionId": "5_563",
+                    "title": "Alternating Feet",
+                    "title_cn": ""
+                },
+                {
+                    "sessionId": "64_563",
+                    "title": "Alternating Feet: Bounce",
+                    "title_cn": ""
+                }
+            ]
+        },
+        {
+            "id": "802_564",
+            "title": "Chest Height (R)",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "803_565",
+            "title": "Chest Height (L)",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "318_278",
+            "title": "Foot Chest",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "804_602",
+            "title": "Balance (R)",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "805_603",
+            "title": "Balance (L)",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "806_566",
+            "title": "2s",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "807_567",
+            "title": "3s",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "298_269",
+            "title": "Juggling Ladder",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "246_443",
+            "title": "Around the world: Basic",
+            "title_cn": "",
+            "word": "Juggle with the right foot only, taking each touch at around chest to head height.",
+            "word_cn": "",
+            "description": "For this technique, bring your foot slightly higher than for a normal juggle. Focus on keeping the ankle locked and hitting through the center of the ball. You should see less spin on the ball than a \"regular\", lower juggling touch. Work on hitting the ball straight into the air at a consistent height. Adjust your feet constantly. You may want to track: 1. Number of consecutive touches at chest to head height with the right foot before the ball drops.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/9-2018+Juggling+/R+Chest+Height.mp4",
+            "difficulty": [{
+                    "sessionId": "802_564"
+                },
+                {
+                    "sessionId": "1_564"
+                },
+                {
+                    "sessionId": "59_564"
+                }
+            ]
+        },
+        {
+            "id": "335",
+            "title": "Lunge",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "338",
+            "title": "Rollover, Cut",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "340",
+            "title": "Scissors",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "341",
+            "title": "Double Scissors",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "470",
+            "title": "Scissors, Lunge",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "342",
+            "title": "Stepover",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "343",
+            "title": "Stepover, Scissors",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "339",
+            "title": "Matthews",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "419",
+            "title": "Fake Matthews",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "344",
+            "title": "Iniesta",
+            "title_cn": "",
+            "word": "Lunge past the ball in one direction. Then use the outside of the other foot to take the ball around the cone in the other direction.",
+            "word_cn": "",
+            "description": "Approach the cone with small touches. For the lunge fake, pretend you're going to play the ball that way, but instead step past it. Use your foot as well as your upper body momentum to sell the fake. Take the ball quickly in the other direction and explode past the cone. After your touch to \"beat\" the cone laterally, take a touch in behind it, as if you were cutting off the imaginary defender.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Dribbling+COMPRESSED/1v1+Lunge.mp4",
+            "difficulty": []
+        },
+        {
+            "id": "82_22",
+            "title": "1 Touch Inside (R)",
+            "title_cn": "",
+            "word": "Stand 3-5 yards from the wall and play one touch with the inside of the right foot.",
+            "word_cn": "",
+            "description": "Work on using good technique, by locking your right ankle, hitting through the center of the ball, and keeping your plant (left) foot pointed towards where you want to pass. Focus on getting into a rhythm by keeping your feet active and hitting the ball with proper pace. If the ball starts bouncing or is not centered, see if you can clean it up by adjusting your feet and getting it back on the ground. If you can't clean it up in the run of play, stop the ball and start again.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+1+Touch+Insides+R.mp4",
+            "difficulty": [{
+                    "sessionId": "82_22"
+                },
+                {
+                    "sessionId": "83_22"
+                }
+            ]
+        },
+        {
+            "id": "23_23",
+            "title": "1 Touch Inside (L)",
+            "title_cn": "",
+            "word": "Stand 3-5 yards from the wall and play one touch with the inside of the left foot.",
+            "word_cn": "",
+            "description": "Work on using good technique, by locking your left ankle, hitting through the center of the ball, and keeping your plant (right) foot pointed towards where you want to pass. Focus on getting into a rhythm by keeping your feet active and hitting the ball with proper pace. If the ball starts bouncing or is not centered, see if you can clean it up by adjusting your feet and getting it back on the ground. If you can't clean it up in the run of play, stop the ball and start again.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+1+Touch+Insides+L.mp4",
+            "difficulty": [{
+                    "sessionId": "23_23"
+                },
+                {
+                    "sessionId": "84_23"
+                }
+            ]
+        },
+        {
+            "id": "25_25",
+            "title": "1 Touch Laces (R)",
+            "title_cn": "",
+            "word": "Stand 3-5 yards from the wall and play one touch with the laces of the right foot.",
+            "word_cn": "",
+            "description": "Work on using good technique, by keeping your right toe pointed down, ankle locked, and keeping your plant (left) foot pointed towards where you want to pass. Focus on getting into a rhythm by keeping your feet active and hitting the ball with proper weight/speed. If the ball starts bouncing or is not centered, see if you can clean it up by adjusting your feet and getting it back on the ground. If you can't clean it up in the run of play, stop the ball and start again.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+1+Touch+Laces+R.mp4",
+            "difficulty": [{
+                    "sessionId": "25_25"
+                },
+                {
+                    "sessionId": "85_25"
+                }
+            ]
+        },
+        {
+            "id": "26_26",
+            "title": "1 Touch Laces (L)",
+            "title_cn": "",
+            "word": "Stand 3-5 yards from the wall and play one touch with the laces of the left foot.",
+            "word_cn": "",
+            "description": "Work on using good technique, by keeping your left toe pointed down, ankle locked, and keeping your plant (right) foot pointed towards where you want to pass. Focus on getting into a rhythm by keeping your feet active and hitting the ball with proper pace. If the ball starts bouncing or is not centered, see if you can clean it up by adjusting your feet and getting it back on the ground. If you can't clean it up in the run of play, stop the ball and start again.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+1+Touch+Laces+L.mp4",
+            "difficulty": [{
+                    "sessionId": "26_26"
+                },
+                {
+                    "sessionId": "86_26"
+                }
+            ]
+        },
+        {
+            "id": "28_28",
+            "title": "2 Touch Balance (R)",
+            "title_cn": "",
+            "word": "Pass the ball against the wall with the inside of the right foot. When it comes back, trap it with the inside of the right and without putting that foot down, pass it back with the inside of the right.",
+            "word_cn": "",
+            "description": "Use good technique by locking your ankle and keeping your first touch close. Be sure to adjust your feet after you pass the ball so you can be well balanced to receive it.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+2+Touch+Inside+Balance+R.mp4",
+            "difficulty": [{
+                    "sessionId": "28_28"
+                },
+                {
+                    "sessionId": "30_28"
+                }
+            ]
+        },
+        {
+            "id": "29_29",
+            "title": "2 Touch Balance (L)",
+            "title_cn": "",
+            "word": "Pass the ball against the wall with the inside of the left foot. When it comes back, trap it with the inside of the left and without putting that foot down, pass it back with the inside of the left.",
+            "word_cn": "",
+            "description": "Use good technique by locking your ankle and keeping your first touch close. Be sure to adjust your feet after you pass the ball so you can be well balanced to receive it.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+2+Touch+Inside+Balance+L.mp4",
+            "difficulty": [{
+                    "sessionId": "29_29"
+                },
+                {
+                    "sessionId": "30_29"
+                }
+            ]
+        },
+        {
+            "id": "421_382",
+            "title": "Wall Balance R",
+            "title_cn": "",
+            "word": "Pass the ball against the wall with the inside of the left foot. When it comes back, trap it with the inside of the left and without putting that foot down, pass it back with the inside of the left.",
+            "word_cn": "",
+            "description": "Use good technique by locking your ankle and keeping your first touch close. Be sure to adjust your feet after you pass the ball so you can be well balanced to receive it.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+2+Touch+Inside+Balance+L.mp4",
+            "difficulty": [{
+                    "sessionId": "29_29"
+                },
+                {
+                    "sessionId": "30_29"
+                }
+            ]
+        },
+        {
+            "id": "422_383",
+            "title": "Wall Balance L",
+            "title_cn": "",
+            "word": "Pass the ball against the wall with the inside of the left foot. When it comes back, trap it with the inside of the left and without putting that foot down, pass it back with the inside of the left.",
+            "word_cn": "",
+            "description": "Use good technique by locking your ankle and keeping your first touch close. Be sure to adjust your feet after you pass the ball so you can be well balanced to receive it.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+2+Touch+Inside+Balance+L.mp4",
+            "difficulty": [{
+                    "sessionId": "29_29"
+                },
+                {
+                    "sessionId": "30_29"
+                }
+            ]
+        },
+        {
+            "id": "375_339",
+            "title": "Inside, Outside, Behind (R)",
+            "title_cn": "",
+            "word": "Pass the ball against the wall with the inside of the left foot. When it comes back, trap it with the inside of the left and without putting that foot down, pass it back with the inside of the left.",
+            "word_cn": "",
+            "description": "Use good technique by locking your ankle and keeping your first touch close. Be sure to adjust your feet after you pass the ball so you can be well balanced to receive it.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+2+Touch+Inside+Balance+L.mp4",
+            "difficulty": [{
+                    "sessionId": "29_29"
+                },
+                {
+                    "sessionId": "30_29"
+                }
+            ]
+        },
+        {
+            "id": "376_340",
+            "title": "Inside, Outside, Behind (L)",
+            "title_cn": "",
+            "word": "Pass the ball against the wall with the inside of the left foot. When it comes back, trap it with the inside of the left and without putting that foot down, pass it back with the inside of the left.",
+            "word_cn": "",
+            "description": "Use good technique by locking your ankle and keeping your first touch close. Be sure to adjust your feet after you pass the ball so you can be well balanced to receive it.",
+            "description_cn": "",
+            "video_url": "https://d152tijfdxhvf6.cloudfront.net/Wall+COMPRESSED/Wall%3A+2+Touch+Inside+Balance+L.mp4",
+            "difficulty": [{
+                    "sessionId": "29_29"
+                },
+                {
+                    "sessionId": "30_29"
+                }
+            ]
+        }
+    ],
+    "steps": [{
+            "id": 1,
+            "title": "1v1 Moves",
+            "title_cn": "",
+            "description": "Setup: Place 2 cones roughly 15 yards apart (or however much space you have) with one cone in the middle.<img src=https://d152tijfdxhvf6.cloudfront.net/setups/images/000/000/011/small/7wJmMyu.png>Dribble towards the center cone and do the specified move with one foot going out, and the other foot coming back. Imagine that the cone is a defender, so you want to perform the move far enough away that you would not get tackled, but close enough that the deception is effective."
+        },
+        {
+            "id": 2,
+            "title": "8 cone",
+            "title_cn": "",
+            "description": "Setup: Place 2 cones roughly 15 yards apart (or however much space you have) with one cone in the middle.<img src=https://d152tijfdxhvf6.cloudfront.net/setups/images/000/000/011/small/7wJmMyu.png>Dribble towards the center cone and do the specified move with one foot going out, and the other foot coming back. Imagine that the cone is a defender, so you want to perform the move far enough away that you would not get tackled, but close enough that the deception is effective."
+        }
+    ],
+    "weekly_sessions": [{
+        "id": 1,
+        "session_changes": "2/04/2019 6:00AM CST",
+        "show_intro": "https://d152tijfdxhvf6.cloudfront.net/sessions/intros/000/000/136/thumb/Screen_Shot_2018-01-24_at_5.54.52_PM.png",
+        "show_intro_cn": "https://d152tijfdxhvf6.cloudfront.net/sessions/intros/000/000/136/thumb/Screen_Shot_2018-01-24_at_5.54.52_PM.png",
+        "session_notes": "",
+        "session_notes_cn": "",
+        "juggling": {
+            "stepId": "",
+            "sessions": [{
+                    "sessionId": "801_801",
+                    "title": "Chest Height"
+            },
+                {
+                    "sessionId": "802_564",
+                    "title": "Chest Height (R)"
+                },
+                {
+                    "sessionId": "803_565",
+                    "title": "Chest Height (L)"
+                },
+                {
+                    "sessionId": "318_278",
+                    "title": "Foot Chest"
+                },
+                {
+                    "sessionId": "804_602",
+                    "title": "Balance (R)"
+                },
+                {
+                    "sessionId": "805_603",
+                    "title": "Balance (L)"
+                },
+                {
+                    "sessionId": "806_566",
+                    "title": "3s"
+                },
+                {
+                    "sessionId": "807_567",
+                    "title": "2s"
+                },
+                {
+                    "sessionId": "298_269",
+                    "title": "Juggling Ladder"
+                },
+                {
+                    "sessionId": "246_443",
+                    "title": "Around the world: Basic"
+                }
+            ]
+        },
+        "dribbling": {
+            "stepId": 1,
+            "sessions": [{
+                    "sessionId": "335",
+                "title": "Lunge"
+                },
+                {
+                    "sessionId": "338",
+                    "title": "Rollover, Cut"
+                },
+                {
+                    "sessionId": "340",
+                    "title": "Scissors"
+                },
+                {
+                    "sessionId": "341",
+                    "title": "Double Scissors"
+                },
+                {
+                    "sessionId": "470",
+                    "title": "Scissors, Lunge"
+                },
+                {
+                    "sessionId": "342",
+                    "title": "Stepover"
+                },
+                {
+                    "sessionId": "343",
+                    "title": "Stepover, Scissors"
+                },
+                {
+                    "sessionId": "339",
+                    "title": "Matthews"
+                },
+                {
+                    "sessionId": "419",
+                    "title": "Fake Matthews"
+                },
+                {
+                    "sessionId": "344",
+                    "title": "Iniesta"
+                }
+            ]
+        },
+        "wall_work": {
+            "stepId": "",
+            "sessions": [{
+                    "sessionId": "82_22",
+                "title": "1 Touch Inside (L)"
+                },
+                {
+                    "sessionId": "23_23",
+                    "title": "1 Touch Inside (R)"
+                },
+                {
+                    "sessionId": "25_25",
+                    "title": "1 Touch Laces (R)"
+                },
+                {
+                    "sessionId": "26_26",
+                    "title": "1 Touch Laces (L)"
+                },
+                {
+                    "sessionId": "28_28",
+                    "title": "2 Touch Balance (R)"
+                },
+                {
+                    "sessionId": "29_29",
+                    "title": "2 Touch Balance (L)"
+                },
+                {
+                    "sessionId": "421_382",
+                    "title": "Wall Balance R"
+                },
+                {
+                    "sessionId": "422_383",
+                    "title": "Wall Balance L"
+                },
+                {
+                    "sessionId": "375_339",
+                    "title": "Inside, Outside, Behind (R)"
+                },
+                {
+                    "sessionId": "376_340",
+                    "title": "Inside, Outside, Behind (L)"
+                }
+            ]
+        }
+    }],
+    "time_trials": {
+        "juggling": [{
+                "id": 2,
+                "title": "Right Foot",
+                "title_cn": "",
+                "description": "See how many total/cumulative juggles you can do with your right foot only in one minute. If the ball drops, bounces, or you catch it, keep counting where you left off.",
+                "description_cn": "",
+                "scoring": "+1 Every right foot touch\r\n+0 A touch with any other surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
+            },
+            {
+                "id": 4,
+                "title": "Left Foot",
+                "title_cn": "",
+                "description": "See how many total/cumulative juggles you can do with your right foot only in one minute. If the ball drops, bounces, or you catch it, keep counting where you left off.",
+                "description_cn": "",
+                "scoring": "+1 Every right foot touch\r\n+0 A touch with any other surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
+            }
+        ],
+        "dribbling": [{
+                "id": 164,
+                "title": "10 Cones: Free",
+                "title_cn": "",
+                "description": "Starting behind the end disc, weave in and out of the discs with any surface of both feet. Go around the disc at the other end and weave all the way back to the start. You must round the end discs each time.",
+                "description_cn": "",
+                "scoring": "+1 Every cone you dribble past (a full length=10)\r\n-5 Skipping a disc\r\n-1 If the ball rolls over a disc (just touching it is ok)",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
+            },
+            {
+                "id": 51,
+                "title": "10 Cones: Right",
+                "title_cn": "",
+                "description": "Starting behind the end disc, weave in and out of the discs with your right foot only. Go around the disc at the other end and weave all the way back to the start. You must round the end discs each time.",
+                "description_cn": "",
+                "scoring": "+1 Every cone you dribble past (a full length=10)\r\n-5 Skipping a disc\r\n-1 If the ball rolls over a disc (just touching it is ok)",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
+            }
+        ],
+        "wall_work": [{
+                "id": 154,
+                "title": "1 Touch Right Insides",
+                "title_cn": "",
+                "description": "With the inside of the right foot only, see how many 1-touch passes you can complete against the wall.",
+                "description_cn": "",
+                "scoring": "+1 The ball passes fully and cleanly through the gate on the way out and back\r\n+0 You take 2 touches (unless you're restarting after a failed attempt)\r\n+0 You use the wrong foot/surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
+            },
+            {
+                "id": 155,
+                "title": "1 Touch Left Insides",
+                "title_cn": "",
+                "description": "With the inside of the right foot only, see how many 1-touch passes you can complete against the wall.",
+                "description_cn": "",
+                "scoring": "+1 The ball passes fully and cleanly through the gate on the way out and back\r\n+0 You take 2 touches (unless you're restarting after a failed attempt)\r\n+0 You use the wrong foot/surface",
+                "timer": "60",
+                "video_url": "https://d152tijfdxhvf6.cloudfront.net/Time+Trials+COMPRESSED/Wall+Time+Trials+COM/Test%3A+Wall+Passing+Right.mp4"
+            }
+        ]
+    }
+}
